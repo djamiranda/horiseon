@@ -9,4 +9,4 @@ Refactor code for existing Horiseon site.  Updated semantic structure of HTML, i
 ![screenshot](./Assets/images/screenshot.png)
 
 ## Link
-[GitHub Link](https://github.com/djamiranda/horiseon)
+[GitHub Link](https://djamiranda.github.io/horiseon/)
