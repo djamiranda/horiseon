@@ -6,7 +6,7 @@ Refactor code for existing Horiseon site.  Updated semantic structure of HTML, i
 
 ## Refactored Site
 
-![screenshot](./Assets/images/screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ## Link
 [GitHub Link](https://djamiranda.github.io/horiseon/)
