@@ -85,6 +85,17 @@ main section {
     color: #ffffff;
 }
 
+main img {
+    max-height: 200px;
+    }
+    
+main h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    }
+
+
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -110,15 +121,6 @@ aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-main img {
-max-height: 200px;
-}
-
-main h2 {
-margin-bottom: 20px;
-font-size: 36px;
 }
 
 footer {
