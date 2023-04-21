@@ -2,7 +2,7 @@
 
 ## Description
 
-Refactor code for existing Horiseon site.  Updated semantic structure of HTML, included comments for each element changed, validated all links are working properly, updated & consolidated CSS selector s & properties to increase efficiency & accessibility. 
+Refactored code for existing Horiseon site.  Updated semantic structure of HTML, included comments for each element changed, validated all links are working properly, updated & consolidated CSS selectors & properties to increase efficiency & accessibility. 
 
 ## Refactored Site
 
